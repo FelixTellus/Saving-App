@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Saving App</string>
+    <string name="goals_title">Metas de Ahorro</string>
+    <string name="add_goal">Agregar Meta</string>
+    <string name="edit_goal">Editar Meta</string>
+    <string name="delete_goal">Eliminar Meta</string>
+    <string name="goal_name">Nombre de la meta</string>
+    <string name="goal_description">Descripción</string>
+    <string name="target_amount">Monto objetivo</string>
+    <string name="expenses_title">Gastos</string>
+    <string name="add_expense">Agregar Gasto</string>
+    <string name="edit_expense">Editar Gasto</string>
+    <string name="delete_expense">Eliminar Gasto</string>
+    <string name="expense_name">Nombre del gasto</string>
+    <string name="expense_amount">Monto</string>
+    <string name="save">Guardar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="month">Mes</string>
+    <string name="year">Año</string>
+    <string name="day">Día</string>
+    <string name="icon">Icono</string>
+    <string name="budget">Presupuesto</string>
+    <string name="spent">Gastado</string>
+    <string name="remaining">Restante</string>
+    <string name="progress">Progreso</string>
+    <string name="no_goals">No hay metas creadas</string>
+    <string name="no_expenses">No hay gastos registrados</string>
+</resources>
